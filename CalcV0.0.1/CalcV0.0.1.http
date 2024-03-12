@@ -1,0 +1,6 @@
+@CalcV0._0._1_HostAddress = http://localhost:5036
+
+GET {{CalcV0._0._1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
